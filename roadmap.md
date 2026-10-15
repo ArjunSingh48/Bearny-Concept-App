@@ -1,0 +1,13 @@
+# Bearny rebuild
+- [x] Cohesive visual system and landing
+- [x] Patient community and simulated groups
+- [x] Deterministic Ask Bearny and profile
+- [x] Professional moderation, answers, feedback
+- [x] End-to-end, mobile, keyboard and automated tests
+- [x] Clear role-selection cards and green patient actions
+- [x] Simplify professional workspace navigation and overview
+- [x] WhatsApp-style simulated chat appearance and verification
+- [x] Audit all screens, dialogs, wording and alignment at desktop and phone widths
+- [x] Correct mismatches and verify visual changes and existing tests
+- [x] Research public peer-support examples and expand fictional community and group conversations
+- [x] Preserve existing session contributions and verify expanded conversations
